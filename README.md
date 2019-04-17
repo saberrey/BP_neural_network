@@ -1,6 +1,5 @@
 # BP_neural_network
-This repository is the job of data Structure and algorithm course，which implements a BP neural network by C. :)
-For learning and communication only :)
+This repository is the job of data Structure and algorithm course，which implements a BP neural network by C. For learning and communication only :)
 
 # result
 Dichotomy of function x^2-2*y^2+z^2 (>0——label0  <0——label1)
